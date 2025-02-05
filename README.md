@@ -11,7 +11,7 @@ This API classifies a number based on mathematical properties and provides a fun
 
 ## Setup Instructions
 
-Take nOTE
+Take Notice
 
 1. Clone the repository:
    ```bash
