@@ -27,6 +27,6 @@ API Endpoints:
     • GET /api/classify-number?number=371: Returns the classification of the number.
 License
 This project is licensed under the MIT License.
- Testing and Submission
+ Testing and Submission.
     • Test the API to make sure it works correctly.
       
