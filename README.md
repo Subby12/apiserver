@@ -11,6 +11,8 @@ This API classifies a number based on mathematical properties and provides a fun
 
 ## Setup Instructions
 
+Take nOTE
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/number-classification-api.git
